@@ -1,0 +1,36 @@
+body
+{
+  color: white;
+  background-image: linear-gradient(to right, #bc0202, #d04a00, #df7600, #ea9f00, #f0c800, #bfd81f, #85e34c, #00eb7d, #00d0b8, #00afde, #0089e1, #085ebc);
+  font-family:cursive;
+
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading
+{
+  font-size: 30px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
